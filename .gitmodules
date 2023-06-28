@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DIFplus"]
 	path = DIFplus
 	url = https://github.com/cran/DIFplus
-	shallow = true
-	registered = true
 [submodule "ROCpsych"]
 	path = ROCpsych
 	url = https://github.com/cran/ROCpsych
-	shallow = true
-	registered = true
 [submodule "subscore"]
 	path = subscore
 	url = https://github.com/cran/subscore
-	shallow = true
-	registered = true
 [submodule "TestDataImputation"]
 	path = TestDataImputation
 	url = https://github.com/cran/TestDataImputation
-	shallow = true
-	registered = true
