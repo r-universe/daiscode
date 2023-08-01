@@ -8,9 +8,9 @@
 [submodule "ROCpsych"]
 	path = ROCpsych
 	url = https://github.com/cran/ROCpsych
-[submodule "subscore"]
-	path = subscore
-	url = https://github.com/cran/subscore
 [submodule "TestDataImputation"]
 	path = TestDataImputation
 	url = https://github.com/cran/TestDataImputation
+[submodule "subscore"]
+	path = subscore
+	url = https://github.com/cran/subscore
