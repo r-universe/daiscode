@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "DIFplus"]
 	path = DIFplus
-	url = https://github.com/cran/DIFplus
+	url = https://github.com/daiscode/difplus
 [submodule "ROCpsych"]
 	path = ROCpsych
-	url = https://github.com/cran/ROCpsych
+	url = https://github.com/daiscode/rocpsych
 [submodule "TestDataImputation"]
 	path = TestDataImputation
-	url = https://github.com/cran/TestDataImputation
+	url = https://github.com/daiscode/testdataimputation
 [submodule "subscore"]
 	path = subscore
-	url = https://github.com/cran/subscore
+	url = https://github.com/daiscode/subscore
